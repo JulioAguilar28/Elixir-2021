@@ -5,7 +5,7 @@ defmodule Homework1 do
   end
 
   def sort_by_example do
-    "The list is sorted by even number first"
+    # The list is sorted by even number first
 
     [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
     |> Enum.sort_by(fn x -> rem(x, 2) != 0 end)
