@@ -12,7 +12,7 @@ defmodule Elixir101Bunsan do
       :world
 
   """
-  def hello do
-    :world
+  def hello(who) do
+    "Hello #{who}!!!"
   end
 end
