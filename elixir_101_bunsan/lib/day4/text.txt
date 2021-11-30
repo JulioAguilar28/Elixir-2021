@@ -1,0 +1,5 @@
+Este es un texto de prueba el cual contiene palabras repetidas, con comas y puntos.
+Los puntos se eliminaran al igual que las comas.
+Las palabras que tengan acentos, seran tratadas por igual.
+Por ejemplo.
+Este es un texto, en donde vamos a repetir la palabra texto y hasta ponerle acento a téxto.
